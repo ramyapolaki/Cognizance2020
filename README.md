@@ -27,4 +27,4 @@ Single Point Of Access.
 * Thousands of sources, limitless potential.
 
 ## __REFERENCE__: 
- https://youtu.be/v72jtZw0nKk (*Building a python web app at a hacathon*)
+ https://youtu.be/v72jtZw0nKk (*Building a python web app at a hackathon*)
