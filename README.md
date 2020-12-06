@@ -3,7 +3,7 @@
 ## WHAT IS HACKATHON ?
 *A hackathon is a design sprint-like event; often, in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, domain experts, and others collaborate intensively on software projects.*
 >*__Hackathons are where your crazy idea becomes reality.__*
-## WHY SHOULD I GO TO HACKATHON ?
+## __WHY SHOULD I GO TO HACKATHON ?__
 ### *HACKATHONS ARE FOR LEARNING:*
  * Hackathons are a super-condensed learning experience. 
  * We learn about idea generation, working with others, managing a project, how to use the libraries, frameworks, and APIs that are used by software engineers every day, how to work to a deadline, how to debug, how to do version control, how to deploy, how to test and improve your work, how to present your work on stage, and much more.
