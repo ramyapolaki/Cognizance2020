@@ -13,7 +13,7 @@
 
  ![alt text](https://www.cpc.unc.edu/wp-content/uploads/2019/12/hackathon-banner-2020-reduced2.jpg)
 
- > *“I learned more in one weekend than I did in the last month of lectures!”*
+ > *__“I learned more in one weekend than I did in the last month of lectures!”__*
 
 
 
