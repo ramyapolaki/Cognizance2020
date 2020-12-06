@@ -1,4 +1,4 @@
-#  __HACKATHON__
+#  __HACKATHON:__
 ![alt text](https://miro.medium.com/max/2560/1*mYeW2isXEbzHvQqD4tWouA.png)
 ## WHAT IS HACKATHON ?
 *A hackathon is a design sprint-like event; often, in which computer programmers and others involved in software development, including graphic designers, interface designers, project managers, domain experts, and others collaborate intensively on software projects.*
