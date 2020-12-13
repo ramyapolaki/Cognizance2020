@@ -1,22 +1,31 @@
 ### PSEUDO CODE-AMSTRONG NUMBER
-Read num
 
-Initialize temp=num
+ Start
 
-Initialize sum=0
+ num 
 
-WHILE num>=0
+ temp=num
+ 
+ order=num.length
 
-    sum=sum+(num%10)*(num%10)*(num%10)
-    num=num/10
+ sum=0
+
+WHILE num>0
+     
+    digit=numMOD10
+    sum=sum+(digit^order)
+    num=numDIV10
+    
 ENDWHILE
 
-IF sum==temp
+IF sum==temp then
 
     WRITE "NUMBER IS AN ARMSTRONG NUMBER"
 
-ELSE
+ELSE then
 
     WRITE "NUMBER IS NOT AN ARMSTRONG NUMBER"
     
-![alt](https://lh3.googleusercontent.com/n6g8duQay93eAwRHCuIBW1vrnV2gUDFiNKYRkcR79udjH3nu0WLpGDq_Cos5vs_ssfoJkEewWGgegAjqwTjG8O4i_-BZlOqIvSy7cPj7QNe_zMZoTQ=w1280)
+ ### FLOWCHART-ARMSTRONG NUMBER 
+    
+![alt](https://lh6.googleusercontent.com/mB75Puw5FgyNPx--5MkdfnuIV4omEeXmFdg5dlYN1Sk5CzEfAKcRcivJGj1-KEilbSpRLiy1Ujc-EvJcSYslosEJWhtG3BHOMqk6yQBNFjoFK4USwQ=w1280)
