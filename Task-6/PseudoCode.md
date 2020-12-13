@@ -19,4 +19,4 @@ ELSE
 
     WRITE "NUMBER IS NOT AN ARMSTRONG NUMBER"
     
-![alt](https://drive.google.com/file/d/1enr5GFF7QCqDcZSXrCfRHcJ8N7_5z4CB/view?usp=sharing)
+![alt](https://lh3.googleusercontent.com/n6g8duQay93eAwRHCuIBW1vrnV2gUDFiNKYRkcR79udjH3nu0WLpGDq_Cos5vs_ssfoJkEewWGgegAjqwTjG8O4i_-BZlOqIvSy7cPj7QNe_zMZoTQ=w1280)
