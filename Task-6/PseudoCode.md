@@ -1,5 +1,5 @@
 ### PSEUDO CODE-AMSTRONG NUMBER
-READ num
+Read num
 
 Initialize temp=num
 
