@@ -1,9 +1,9 @@
-### *PSEUDO CODE-AMSTRONG NUMBER*
+### PSEUDO CODE-AMSTRONG NUMBER
 READ num
 
-temp=num
+Initialize temp=num
 
-sum=0
+Initialize sum=0
 
 WHILE num>=0
 
