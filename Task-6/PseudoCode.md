@@ -18,3 +18,5 @@ IF sum==temp
 ELSE
 
     WRITE "NUMBER IS NOT AN ARMSTRONG NUMBER"
+    
+![alt](https://drive.google.com/file/d/1enr5GFF7QCqDcZSXrCfRHcJ8N7_5z4CB/view?usp=sharing)
