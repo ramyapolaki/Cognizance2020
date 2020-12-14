@@ -28,4 +28,4 @@ ELSE then
     
  ### FLOWCHART-ARMSTRONG NUMBER 
     
- ![alt](https://lh6.googleusercontent.com/mB75Puw5FgyNPx--5MkdfnuIV4omEeXmFdg5dlYN1Sk5CzEfAKcRcivJGj1-KEilbSpRLiy1Ujc-EvJcSYslosEJWhtG3BHOMqk6yQBNFjoFK4USwQ=w1280)
+ ![alt](https://lh6.googleusercontent.com/Y2bLIhGd9CKU4FDCIGccnJSyuUhWBNHCXvh6v_5jlii01udgqzNVcBDPHgeSgMQJViXd450SGUhPZV-Z1U6b5CBbxdw5qfwtm9oPbv9jGjyFefnnHhc=w1280)
